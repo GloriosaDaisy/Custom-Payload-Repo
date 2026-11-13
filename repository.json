@@ -39,6 +39,14 @@
       "checksum": "53fe5098939994a6834503d3561dc1eb666b7498130689c7249117024d1ba2f3",
       "author": "tsuramatsu1 (patched)",
       "source": "https://github.com/tsuramatsu1/apr-emu-updater"
-    }
-  ]
-}
+     },
+  {
+    "id": "kraken-mount",
+    "repo": "quer3q/kraken-mount",
+    "asset_pattern": "kraken-mount.elf",
+    "name": "Kraken Mount",
+    "description": "Registers games from internal SSD and USB on the home screen without installing them, and mounts their fakelib (ampr-emu-ng) at launch",
+    "category": "Utilities & Tools",
+    "author": "quer3q"
+  }
+]
