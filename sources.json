@@ -7,5 +7,14 @@
     "description": "Archive extraction helper for PS5 Web File Manager (7z, RAR, ZIP, TAR and more)",
     "category": "Utilities & Tools",
     "author": "owendswang"
+  },
+  {
+    "id": "bazzite-bootc-loader",
+    "repo": "VivaLaVent/ps5-bazzite-deck",
+    "asset_pattern": "bazzite-bootc-loader-*.elf",
+    "name": "Bazzite Bootc Loader",
+    "description": "Loader for running Bazzite (Steam Deck mode) on the PS5 from USB or M.2",
+    "category": "Loaders",
+    "author": "VivaLaVent"
   }
 ]
