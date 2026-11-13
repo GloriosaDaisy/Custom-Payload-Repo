@@ -1,3 +1,4 @@
+
 {
   "name": "Custom Repository",
   "payloads": [
@@ -39,19 +40,7 @@
       "checksum": "53fe5098939994a6834503d3561dc1eb666b7498130689c7249117024d1ba2f3",
       "author": "tsuramatsu1 (patched)",
       "source": "https://github.com/tsuramatsu1/apr-emu-updater"
-    },
-    {
-      "id": "kraken-mount",
-      "name": "Kraken Mount",
-      "filename": "kraken-mount.elf",
-      "url": "https://github.com/quer3q/kraken-mount/releases/download/v0.0.1-beta/kraken-mount.elf",
-      "description": "PS5 game mounter supporting debug FPKG packages and game folders, including Zstandard and LZ4 formats",
-      "version": "v0.0.1-beta",
-      "last_update": "2026-11-13",
-      "category": "Utilities & Tools",
-      "checksum": "32cdf8e9aee9a8e91a7acd8884ac4701a75a38d96d483ea00bb7cbf4fe11a522",
-      "author": "quer3q",
-      "source": "https://github.com/quer3q/kraken-mount"
     }
   ]
 }
+
