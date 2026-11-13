@@ -1,29 +1,44 @@
-[
-  {
-    "id": "wfm-7zip-helper",
-    "repo": "owendswang/wfm-7zip-helper",
-    "asset_pattern": "wfm-7zip-helper-*.elf",
-    "name": "WFM 7-Zip Helper",
-    "description": "Archive extraction helper for PS5 Web File Manager (7z, RAR, ZIP, TAR and more)",
-    "category": "Utilities & Tools",
-    "author": "owendswang"
-  },
-  {
-    "id": "bazzite-bootc-loader",
-    "repo": "VivaLaVent/ps5-bazzite-deck",
-    "asset_pattern": "bazzite-bootc-loader-*.elf",
-    "name": "Bazzite Bootc Loader",
-    "description": "Loader for running Bazzite (Steam Deck mode) on the PS5 from USB or M.2",
-    "category": "Loaders",
-    "author": "VivaLaVent"
-  },
-  {
-    "id": "kraken-mount",
-    "repo": "quer3q/kraken-mount",
-    "asset_pattern": "kraken-mount.elf",
-    "name": "Kraken Mount",
-    "description": "Registers games from internal SSD and USB on the home screen without installing them, and mounts their fakelib (ampr-emu-ng) at launch",
-    "category": "Utilities & Tools",
-    "author": "quer3q"
-  }
-]
+{
+  "name": "Custom Repository",
+  "payloads": [
+    {
+      "id": "wfm-7zip-helper",
+      "name": "WFM 7-Zip Helper",
+      "filename": "wfm-7zip-helper-v26.04-0.elf",
+      "url": "https://github.com/owendswang/wfm-7zip-helper/releases/download/v26.04-0/wfm-7zip-helper-v26.04-0.elf",
+      "description": "Archive extraction helper for PS5 Web File Manager (7z, RAR, ZIP, TAR and more)",
+      "version": "v26.04-0",
+      "last_update": "2026-10-22",
+      "category": "Utilities & Tools",
+      "checksum": "6acc2972d358dfc92b5ac66cf8cb9ca8613c096bde56ce790077a6831fb17825",
+      "author": "owendswang",
+      "source": "https://github.com/owendswang/wfm-7zip-helper/releases"
+    },
+    {
+      "id": "bazzite-bootc-loader",
+      "name": "Bazzite Bootc Loader",
+      "description": "Loader for running Bazzite (Steam Deck mode) on the PS5 from USB or M.2",
+      "category": "Loaders",
+      "author": "VivaLaVent",
+      "source": "https://github.com/VivaLaVent/ps5-bazzite-deck/releases",
+      "filename": "bazzite-bootc-loader-v2.13.elf",
+      "url": "https://github.com/VivaLaVent/ps5-bazzite-deck/releases/download/v2.13/bazzite-bootc-loader-v2.13.elf",
+      "version": "v2.13",
+      "last_update": "2026-11-12",
+      "checksum": "8714a2457ce9c81db5c48904c3cea2c1c622163e2f1dff7bf755a38daf604410"
+    },
+    {
+      "id": "apr-emu-updater-ampr-ng",
+      "name": "APR Emu Updater (Ampr Ng source)",
+      "filename": "ampr ng updater v2.0.6.elf",
+      "url": "https://raw.githubusercontent.com/GloriosaDaisy/Ampr-Ng-Repo/main/ampr%20ng%20updater%20v2.0.6.elf",
+      "description": "Patched APR Emu Updater that fetches libSceAmpr.sprx builds from ampr-emu-ng releases (regular builds only)",
+      "version": "v2.0.6",
+      "last_update": "2026-11-13",
+      "category": "Utilities & Tools",
+      "checksum": "53fe5098939994a6834503d3561dc1eb666b7498130689c7249117024d1ba2f3",
+      "author": "tsuramatsu1 (patched)",
+      "source": "https://github.com/tsuramatsu1/apr-emu-updater"
+    }
+  ]
+}
