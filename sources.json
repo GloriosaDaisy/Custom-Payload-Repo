@@ -16,5 +16,14 @@
     "description": "Loader for running Bazzite (Steam Deck mode) on the PS5 from USB or M.2",
     "category": "Loaders",
     "author": "VivaLaVent"
+  },
+  {
+    "id": "kraken-mount",
+    "repo": "quer3q/kraken-mount",
+    "asset_pattern": "kraken-mount.elf",
+    "name": "Kraken Mount",
+    "description": "Registers games from internal SSD and USB on the home screen without installing them, and mounts their fakelib (ampr-emu-ng) at launch",
+    "category": "Utilities & Tools",
+    "author": "quer3q"
   }
 ]
