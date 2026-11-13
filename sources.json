@@ -1,0 +1,11 @@
+[
+  {
+    "id": "wfm-7zip-helper",
+    "repo": "owendswang/wfm-7zip-helper",
+    "asset_pattern": "wfm-7zip-helper-*.elf",
+    "name": "WFM 7-Zip Helper",
+    "description": "Archive extraction helper for PS5 Web File Manager (7z, RAR, ZIP, TAR and more)",
+    "category": "Utilities & Tools",
+    "author": "owendswang"
+  }
+]
