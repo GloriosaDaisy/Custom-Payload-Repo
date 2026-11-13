@@ -26,6 +26,19 @@
       "version": "v2.13",
       "last_update": "2026-11-12",
       "checksum": "8714a2457ce9c81db5c48904c3cea2c1c622163e2f1dff7bf755a38daf604410"
+    },
+    {
+      "id": "apr-emu-updater-ampr-ng",
+      "name": "APR Emu Updater (Ampr Ng source)",
+      "filename": "ampr ng updater v2.0.6.elf",
+      "url": "https://raw.githubusercontent.com/GloriosaDaisy/Ampr-Ng-Repo/main/ampr%20ng%20updater%20v2.0.6.elf",
+      "description": "Patched APR Emu Updater that fetches libSceAmpr.sprx builds from ampr-emu-ng releases (regular builds only)",
+      "version": "v2.0.6",
+      "last_update": "2026-11-13",
+      "category": "Utilities & Tools",
+      "checksum": "53fe5098939994a6834503d3561dc1eb666b7498130689c7249117024d1ba2f3",
+      "author": "tsuramatsu1 (patched)",
+      "source": "https://github.com/tsuramatsu1/apr-emu-updater"
     }
   ]
 }
