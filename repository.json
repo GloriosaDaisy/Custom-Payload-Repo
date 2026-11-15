@@ -48,10 +48,10 @@
       "author": "quer3q",
       "source": "https://github.com/quer3q/kraken-mount/releases",
       "filename": "kraken-mount.elf",
-      "url": "https://github.com/quer3q/kraken-mount/releases/download/v0.0.1-beta/kraken-mount.elf",
-      "version": "v0.0.1-beta",
-      "last_update": "2026-11-13",
-      "checksum": "32cdf8e9aee9a8e91a7acd8884ac4701a75a38d96d483ea00bb7cbf4fe11a522"
+      "url": "https://github.com/quer3q/kraken-mount/releases/download/v0.2.0/kraken-mount.elf",
+      "version": "v0.2.0",
+      "last_update": "2026-11-15",
+      "checksum": "a9c02fe0dabd24581f2dec79b7bb92825284005045862c28e4e9fb973c3cf5bf"
     }
   ]
 }
