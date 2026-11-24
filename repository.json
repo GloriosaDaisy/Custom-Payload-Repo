@@ -21,11 +21,11 @@
       "category": "Loaders",
       "author": "VivaLaVent",
       "source": "https://github.com/VivaLaVent/ps5-bazzite-deck/releases",
-      "filename": "bazzite-bootc-loader-v3.0.elf",
-      "url": "https://github.com/VivaLaVent/ps5-bazzite-deck/releases/download/v3.0/bazzite-bootc-loader-v3.0.elf",
-      "version": "v3.0",
-      "last_update": "2026-11-19",
-      "checksum": "61cfbcee4c531e173bb7e4a1feb527440d237e6e3a8f93c998bfae5462ad9a8a"
+      "filename": "bazzite-bootc-loader-v3.0.4.elf",
+      "url": "https://github.com/VivaLaVent/ps5-bazzite-deck/releases/download/v3.0.4/bazzite-bootc-loader-v3.0.4.elf",
+      "version": "v3.0.4",
+      "last_update": "2026-11-23",
+      "checksum": "77f7a6c2c8ced3328694ab82f8fe6502f4115a527dd6007e4c858771b613a2d4"
     },
     {
       "id": "apr-emu-updater-ampr-ng",
