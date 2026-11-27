@@ -25,5 +25,14 @@
     "description": "Registers games from internal SSD and USB on the home screen without installing them, and mounts their fakelib (ampr-emu-ng) at launch",
     "category": "Utilities & Tools",
     "author": "quer3q"
+  },
+  {
+    "id": "gtavi-unlockfps",
+    "repo": "HSgod/ps5-fpsunlocker-gta6",
+    "asset_pattern": "GTAVI*UnlockFPS*.elf",
+    "name": "GTAVI UnlockFPS",
+    "description": "Runtime patch that unlocks the 30 FPS cap in GTA VI (game version v01.002.001 only). Load it before starting the game.",
+    "category": "Utilities & Tools",
+    "author": "HSgod"
   }
 ]
