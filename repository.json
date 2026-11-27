@@ -48,10 +48,10 @@
       "author": "quer3q",
       "source": "https://github.com/quer3q/kraken-mount/releases",
       "filename": "kraken-mount.elf",
-      "url": "https://github.com/quer3q/kraken-mount/releases/download/v0.4.1/kraken-mount.elf",
-      "version": "v0.4.1",
-      "last_update": "2026-11-26",
-      "checksum": "88d39545728f4202421616a299467545afe7f9b295b636f7bd49b1f2fe1aad1d"
+      "url": "https://github.com/quer3q/kraken-mount/releases/download/v0.4.2/kraken-mount.elf",
+      "version": "v0.4.2",
+      "last_update": "2026-11-27",
+      "checksum": "4d4ec0fc2b436d7be3e9d573dc63e6c94c64eac0d72c08aa15fe54446a19201f"
     },
     {
       "id": "gtavi-unlockfps",
