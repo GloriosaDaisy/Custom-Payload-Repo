@@ -47,11 +47,24 @@
       "category": "Utilities & Tools",
       "author": "HSgod",
       "source": "https://github.com/HSgod/ps5-fpsunlocker-gta6/releases",
-      "filename": "GTAVI.UnlockFPS_v1.16.elf",
-      "url": "https://github.com/HSgod/ps5-fpsunlocker-gta6/releases/download/v1.16/GTAVI.UnlockFPS_v1.16.elf",
-      "version": "v1.16",
-      "last_update": "2026-11-27",
-      "checksum": "6d294fa504b0526d720d8f3a53804eca5f8f813deae01a9de5588dfe228c03b1"
+      "filename": "GTAVI.UnlockFPS_v1.17.elf",
+      "url": "https://github.com/HSgod/ps5-fpsunlocker-gta6/releases/download/v1.17/GTAVI.UnlockFPS_v1.17.elf",
+      "version": "v1.17",
+      "last_update": "2026-11-28",
+      "checksum": "068b9da9c8e1dbc078a92d960077f74d0018e4997d6c1377ec41d0079867c542"
+    },
+    {
+      "id": "vi-patch",
+      "name": "VI-Patch",
+      "description": "Payload for Grand Theft Auto VI PS5 patches, including 60 FPS, 40 FPS, 1080p, weather fix, and other gameplay and visual fixes (game version 01.002.001 only)",
+      "category": "Utilities & Tools",
+      "author": "ZiZc3",
+      "source": "https://github.com/ZiZc3/VI-Patch/releases",
+      "filename": "vi-patch.elf",
+      "url": "https://github.com/ZiZc3/VI-Patch/releases/download/v1.5/vi-patch.elf",
+      "version": "v1.5",
+      "last_update": "2026-11-28",
+      "checksum": "137b5a337ad99c631f842c3122b4545651ec1f221d2c049e114334015587c249"
     }
   ]
 }
