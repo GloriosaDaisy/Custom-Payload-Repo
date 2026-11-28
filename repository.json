@@ -41,19 +41,6 @@
       "source": "https://github.com/tsuramatsu1/apr-emu-updater"
     },
     {
-      "id": "kraken-mount",
-      "name": "Kraken Mount",
-      "description": "Registers games from internal SSD and USB on the home screen without installing them, and mounts their fakelib (ampr-emu-ng) at launch",
-      "category": "Utilities & Tools",
-      "author": "quer3q",
-      "source": "https://github.com/quer3q/kraken-mount/releases",
-      "filename": "kraken-mount.elf",
-      "url": "https://github.com/quer3q/kraken-mount/releases/download/v0.4.2/kraken-mount.elf",
-      "version": "v0.4.2",
-      "last_update": "2026-11-27",
-      "checksum": "4d4ec0fc2b436d7be3e9d573dc63e6c94c64eac0d72c08aa15fe54446a19201f"
-    },
-    {
       "id": "gtavi-unlockfps",
       "name": "GTAVI UnlockFPS",
       "description": "Runtime patch that unlocks the 30 FPS cap in GTA VI (game version v01.002.001 only). Load it before starting the game.",
