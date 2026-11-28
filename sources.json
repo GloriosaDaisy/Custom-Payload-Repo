@@ -18,15 +18,6 @@
     "author": "VivaLaVent"
   },
   {
-    "id": "kraken-mount",
-    "repo": "quer3q/kraken-mount",
-    "asset_pattern": "kraken-mount.elf",
-    "name": "Kraken Mount",
-    "description": "Registers games from internal SSD and USB on the home screen without installing them, and mounts their fakelib (ampr-emu-ng) at launch",
-    "category": "Utilities & Tools",
-    "author": "quer3q"
-  },
-  {
     "id": "gtavi-unlockfps",
     "repo": "HSgod/ps5-fpsunlocker-gta6",
     "asset_pattern": "GTAVI*UnlockFPS*.elf",
@@ -34,5 +25,14 @@
     "description": "Runtime patch that unlocks the 30 FPS cap in GTA VI (game version v01.002.001 only). Load it before starting the game.",
     "category": "Utilities & Tools",
     "author": "HSgod"
+  },
+  {
+    "id": "vi-patch",
+    "repo": "ZiZc3/VI-Patch",
+    "asset_pattern": "vi-patch.elf",
+    "name": "VI-Patch",
+    "description": "Payload for Grand Theft Auto VI PS5 patches, including 60 FPS, 40 FPS, 1080p, weather fix, and other gameplay and visual fixes (game version 01.002.001 only)",
+    "category": "Utilities & Tools",
+    "author": "ZiZc3"
   }
 ]
